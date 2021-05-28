@@ -63,7 +63,7 @@
  ```Do try to understand the purpose of the program before starting to remove code```
 
 
-6. **Write a program to print the multiplication table till a user given number. If the user enters 5, print multiplication tables for 1, 2, 3, 4 and 5.**
+6. **Write a program to print the multiplication table till a user given number. If the user enters 5, print multiplication tables for 1, 2, 3, 4 and 5.**[Hint](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/weather.cpp)
 
 
 7. **Given two numbers by the user swap the variables they are stored in.
