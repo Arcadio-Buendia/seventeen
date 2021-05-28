@@ -1,4 +1,4 @@
-//This program contains a bug. Find it out by giving multiples or powers of 10 as the input. [Instructions](https://github.com/Arcadio-Buendia/seventeen/blob/main/Extras/rev_digits_bugs_instruction.md) to solve it.
+//This program contains a bug. Find it out by giving multiples or powers of 10 as the input. Look at Extras/rev_digits_bugs_instruction.md to solve it.(https://github.com/Arcadio-Buendia/seventeen/blob/main/Extras/rev_digits_bugs_instruction.md)
 #include<iostream>
 using namespace std;
 int main(){
