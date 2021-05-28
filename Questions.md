@@ -1,4 +1,4 @@
-** The solution [rev_digits.cpp](https://replit.com/@ArcadioBuendia/Seventeen#while/rev_digits.cpp) for 18th may question has a bug that makes it unusable for multiples of 10. Here are some [instructions](https://replit.com/@ArcadioBuendia/Seventeen#Extras/rev_digits_bugs_instruction.md) to fix it.** 
+** The solution [rev_digits.cpp](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/rev_digits.cpp) for 18th may question has a bug that makes it unusable for multiples of 10. Here are some [instructions](https://github.com/Arcadio-Buendia/seventeen/blob/main/Extras/rev_digits_bugs_instruction.md) to fix it.** 
 
 
 # 18th May
@@ -6,26 +6,26 @@
  ---------------------------------------------------------------------- 
 
 
- - **Write a program to take the marks obtained in math by 5 students and show the average of these marks.**
+1. **Write a program to take the marks obtained in math by 5 students and show the average of these marks.**[Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/average_of_5.cpp)
  ```
  Sample output
  Enter the math scores of 5 students seperated by space: 90 99 76 21 43
  The average of marks is: 65.8
  ```
- **Write a program to take the marks obtained in math for an arbitary number of students and show their average.**
+2. **Write a program to take the marks obtained in math for an arbitary number of students and show their average.**[Hint](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/lot_of_input.cpp)
  ```
  Enter math scores for you students, seperated by space: 21 32 43 54 65 76 87
  The average of their marks is:54
  ```
 
- - **WAP to print the reverse of a user given number.**
+3. **WAP to print the reverse of a user given number.** [Incomplete Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/rev_digits.cpp)
  ```
  Sample output
  Enter a number to find it's reverse: 9984
  The reverse of 9984 is: 4899
  ```
 
- - **The following code is supposed to give the area of a rectangle, if it's length matches a certain criteria. But it doesn't work,correct it.**
+4. **The following code is supposed to give the area of a rectangle, if it's length matches a certain criteria. But it doesn't work,correct it.**
  ```
  ++#include<iostream>
  using namespace std;
@@ -43,7 +43,7 @@
  ```
  ```Do try to understand the purpose of the program before starting to remove code```
 
- - **The following program is supposed to print the sum of digits for every integer in a range given by the user. But it doesn't work, correct it.**
+5. **The following program is supposed to print the sum of digits for every integer in a range given by the user. But it doesn't work, correct it.**
  ```
  #include<iostream>
  using namesace std;
@@ -52,7 +52,7 @@
    while(low_bound<up_bound){
      int alias_low=low_bound
      low_bound;
-     while(low_bound/10>0){
+     while(low_bound/10>0){ //Nested while loop
        sum+=low_bound%10;
        low_bound/=10;
      }
@@ -63,11 +63,11 @@
  ```Do try to understand the purpose of the program before starting to remove code```
 
 
- - **Write a program to print the multiplication table till a user given number. If the user enters 5, print multiplication tables for 1, 2, 3, 4 and 5.**
+6. **Write a program to print the multiplication table till a user given number. If the user enters 5, print multiplication tables for 1, 2, 3, 4 and 5.**
 
 
- - **Given two numbers by the user swap the variables they are stored in.
- [Click here, if not clear.](https://replit.com/@ArcadioBuendia/Seventeen#Extras/embed.draw)**
+7. **Given two numbers by the user swap the variables they are stored in.
+ [Click here, if not clear.](https://github.com/Arcadio-Buendia/seventeen/blob/main/Extras/swap.png)**
  ```
  Sample output 
  Enter two numbers: 18 19
@@ -84,7 +84,7 @@
 
 
 1. WE have used "a++" where "++" is called the increment operator. Use the decrement operator "--" to print the numbers from a user given number down to 0.
-[solution](https://replit.com/@ArcadioBuendia/Seventeen#while/decrement_while.cpp)
+[solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/decrement_while.cpp)
 
 
 2. Find the sum of all numbers in the range of two numbers given by the user.
@@ -94,8 +94,10 @@ input | output
 3,4|3
 2,5|9
 1,6|15
-_the numbers in the left coloumn represent two input numbers.
-[Solution](https://replit.com/@ArcadioBuendia/Seventeen#while/sum_in_range.cpp)
+
+
+The numbers in the left coloumn represent two input numbers.
+[Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/sum_in_range.cpp)
 
 3. Write a program to print the sum of all digits in a given number.
 example
@@ -115,11 +117,11 @@ example input|example output
  } //The loops continues till a=b
  ```
  
- The input taken in the left coloumn should give the output in the right coloumn.[Solution](https://replit.com/@ArcadioBuendia/Seventeen#while/sum_of_digits.cpp)
+ The input taken in the left coloumn should give the output in the right coloumn.[Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/sum_of_digits.cpp)
 
  5. Generate the following sequence till n(user given) numbers are reached:
  5,6,11,17,28,45,73,118,......
- [Solution](https://replit.com/@ArcadioBuendia/Seventeen#while/sequence_prob.cpp)
+ [Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/sequence_prob.cpp)
 
  *The questions are in increasing order of difficulty*
 
