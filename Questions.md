@@ -12,7 +12,7 @@
  Enter the math scores of 5 students seperated by space: 90 99 76 21 43
  The average of marks is: 65.8
  ```
-2. **Write a program to take the marks obtained in math for an arbitary number of students and show their average.**[Hint](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/lot_of_input.cpp)
+2. **Write a program to take the marks obtained in math for an arbitary number of students and show their average.**[Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/average_of_arbitary.cpp)
  ```
  Enter math scores for you students, seperated by space: 21 32 43 54 65 76 87
  The average of their marks is:54
@@ -63,7 +63,7 @@
  ```Do try to understand the purpose of the program before starting to remove code```
 
 
-6. **Write a program to print the multiplication table till a user given number. If the user enters 5, print multiplication tables for 1, 2, 3, 4 and 5.**[Hint](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/weather.cpp)
+6. **Write a program to print the multiplication table till a user given number. If the user enters 5, print multiplication tables for 1, 2, 3, 4 and 5.**[Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/multiplication_table.cpp)
 
 
 7. **Given two numbers by the user swap the variables they are stored in.
