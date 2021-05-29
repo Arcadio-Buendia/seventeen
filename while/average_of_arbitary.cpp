@@ -6,13 +6,11 @@ int main()
 	float value=0.0; 
 	float sum=0.0;
 	float countInputs=0.0;
+	
 	while(cin>>value)
 	{
-		
-	
 		sum+=value;
 		countInputs++;
-	
 	}
     
     float ave=sum/countInputs;
