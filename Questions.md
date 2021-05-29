@@ -25,7 +25,7 @@
  The reverse of 9984 is: 4899
  ```
 
-4. **The following code is supposed to give the area of a rectangle, if it's length matches a certain criteria. But it doesn't work,correct it.**[Solution]()(https://github.com/Arcadio-Buendia/seventeen/blob/main/while/area_of_rectangle.cpp)
+4. **The following code is supposed to give the area of a rectangle, if it's length matches a certain criteria. But it doesn't work,correct it.**[Solution](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/area_of_rectangle.cpp)
  ```
  ++#include<iostream>
  using namespace std;
