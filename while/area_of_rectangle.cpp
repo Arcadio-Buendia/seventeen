@@ -12,6 +12,6 @@
             cout<<"Please re-enter the length:";
             cin>>length;
         }
-    cout<<"Area of the rectange is: "<<length*breadth;
+    cout<<"Area of the rectange is: "<<length*breadth<<endl;
     return 0;
  }
