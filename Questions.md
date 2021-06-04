@@ -1,5 +1,29 @@
 ** The solution [rev_digits.cpp](https://github.com/Arcadio-Buendia/seventeen/blob/main/while/rev_digits.cpp) for 18th may question has a bug that makes it unusable for multiples of 10. Here are some [instructions](https://github.com/Arcadio-Buendia/seventeen/blob/main/Extras/rev_digits_bugs_instruction.md) to fix it.** 
 
+## 24th May
+
+------------------------------------------------------------
+
+1. WAP to Check if the number is even or odd
+```Sample output
+Enter a number: 5
+The given number is odd
+```
+2. WAP to Check if the given number is a perfect square
+``` Sample output
+Enter a number: 89
+The given number is not a perfect square
+```
+```
+Enter a number: 64
+The given number is the square of 8
+```
+3. WAP to Check if the given number is prime
+```Sample output
+Enter a number to check it's primality: 89
+The given number is prime
+```
+
 
 # 18th May
 
